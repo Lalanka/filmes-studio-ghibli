@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+h1 {
+ font-family: "PT Serif", serif;
+padding-left: 15px;
+}
+
+p {
+   font-size: 25px;
+   text-align: justify;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    font-family: "PT Serif", serif;
+    gap: 50px;
+}

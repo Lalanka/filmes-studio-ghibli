@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+    font-family:  "PT Serif", serif;
+    scroll-behavior: smooth;
+}
+
+main h1 {
+    position: relative;
+    top: 60px;
+    left: 650px;
+    width: 300px;
+}
+.conteudo {
+    width: 98vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+    justify-content: center;  
+}
+ 
+h2 {
+    background-color: rgb(117, 140, 76);
+    width: 800px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    padding: 5px;
+}
+
+.filme {
+    box-shadow: 3px 3px 5px black;
+    width: 800px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    border-radius: 0 0 10px 10px;
+
+}
+
+.img {
+    width: 400px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+
+.filme p{
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    text-align: justify;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+
+span {
+    background-color: rgb(169, 153, 153);
+    width: 400px;
+    text-align: center;
+    border-radius: 0 0 10px 10px;
+}
+
+#foto1 {
+    background-image: url(../imagens/30\ anos\ de\ O\ Castelo\ no\ Céu\,\ clássico\ do\ estúdio\ Ghibli.jpeg);
+}
+
+#foto2 {
+    background-image: url(../imagens/download.jpeg);
+}
+
+#foto3 {
+    background-image: url(../imagens/Grave\ of\ The\ Fireflies\ Art\ Print\ by\ Dankn.jpeg);
+}
+
+#foto4 {
+    background-image: url(../imagens/download\ \(1\).jpeg);
+}
+
+#foto5 {
+    background-image: url(../imagens/Only\ Yesterday.jpeg);
+}
+
+#foto6 {
+    background-image: url(../imagens/˗ˏˋ\ ★\ studio\ ghibli\ ★\ ˎˊ˗.jpeg);
+}
+
+#foto7 {
+    background-image: url(../imagens/eu\ posso\ ouvir\ o\ oceano\ \(2\).jpeg);
+}
+
+#foto8 {
+    background-image: url(../imagens/sussuros\ do\ coraçao\ \(2\).jpeg);
+}
+
+#foto9 {
+    background-image: url(../imagens/Princess\ Mononoke.jpeg);
+}
+
+#foto10 {
+    background-image: url(../imagens/a\ viagem\ de\ chiriro.jpeg);
+}
+
+#foto11 {
+    background-image: url(../imagens/reino\ dos\ gatos\(2\).jpeg);
+}
+
+#foto12 {
+    background-image: url(../imagens/𝒉𝒐𝒘𝒍\'𝒔\ 𝒎𝒐𝒗𝒊𝒏𝒈\ 𝒄𝒂𝒔𝒕𝒍𝒆.jpeg);
+}
+
+#foto13 {
+    background-image: url(../imagens/contos\ de\ terramar\(2\).jpeg);
+}
+
+#foto14 {
+    background-image: url(../imagens/𝑃𝑜𝑛𝑦𝑜\ 𝑜𝑛\ 𝑡ℎ𝑒\ 𝐶𝑙𝑖𝑓𝑓\ 𝑏𝑦\ 𝑡ℎ𝑒\ 𝑆𝑒𝑎.jpeg);
+}
+
+#foto15 {
+    background-image: url(../imagens/da\ colina\ kokuriko\(2\).jpeg);
+}
+
+#foto16 {
+    background-image: url(../imagens/vidas-ao-vento.webp);
+    background-position: bottom center;
+}
+
+#foto17 {
+    background-image: url(../imagens/O-Conto-da-Princesa-Kaguya_.webp);
+}
+
+#foto18 {
+    background-image: url(../imagens/memorias\ de\ marnie.jpeg);
+}
+
+#foto19 {
+    background-image: url(../imagens/aya\ e\ a\ bruxa.jpeg);
+}
+
+#foto20 {
+    background-image: url(../imagens/O\ Menino\ e\ a\ garça.jpeg);
+}
